@@ -1,7 +1,7 @@
 // docs/.vitepress/config.ts
 import { defineConfig } from 'vitepress';
 
-const BASE = '/'
+const BASE = '/SkiHide-docs/'
 
 export default defineConfig({
   base: BASE,
