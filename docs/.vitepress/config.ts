@@ -13,7 +13,7 @@ export default defineConfig({
     root: { label: '简体中文', lang: 'zh-CN' },
   },
 
-  head: [['link', { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' }]],
+  head: [['link', { rel: 'icon', type: 'image/svg+xml', href: `${base}logo.svg?v=1` }]],
 
   themeConfig: {
     /* =====================
