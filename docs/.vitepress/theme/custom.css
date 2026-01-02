@@ -1,0 +1,63 @@
+:root {
+  /* 品牌色：按你想要的“滑雪/冰蓝”风格改 */
+  --vp-c-brand-1: #5aa7ff;
+  --vp-c-brand-2: #7cc4ff;
+
+  /* 圆角与阴影更“官网化” */
+  --vp-border-radius: 16px;
+}
+
+.VPHome .VPHomeHero {
+  padding-top: calc(var(--vp-nav-height) + 24px) !important;
+}
+
+.VPHome .VPFeature {
+  border-radius: var(--vp-border-radius);
+}
+
+.stats-row,
+.steps {
+  margin: 24px 0;
+}
+
+.cta {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-top: 18px;
+}
+
+/* === Footer 左右分栏布局（仿你给的示例） === */
+.VPFooter {
+  padding: 16px 24px;
+}
+
+.VPFooter .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+/* 左侧版权 */
+.VPFooter .copyright {
+  margin: 0;
+  font-size: 13px;
+  color: var(--vp-c-text-2);
+}
+
+/* 右侧 message */
+.VPFooter .message {
+  margin: 0;
+  font-size: 13px;
+  color: var(--vp-c-text-3);
+  white-space: nowrap;
+}
+
+/* 移动端自动变回上下（防挤） */
+@media (max-width: 640px) {
+  .VPFooter .container {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
