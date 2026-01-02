@@ -2,6 +2,7 @@
 import { defineConfig } from 'vitepress';
 
 export default defineConfig({
+  base: '/SkiHide-docs/',
   cleanUrls: true,
   title: 'SkiHide',
   description: '全局热键/鼠标侧键快速隐藏与恢复窗口的工具',
