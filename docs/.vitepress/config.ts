@@ -49,7 +49,7 @@ export default defineConfig({
       text: '在 GitHub 上编辑此页',
     },
 
-    logo: '/logo.svg',
+    logo: '${BASE}/logo.svg',
 
     nav: [
       { text: '首页', link: '/' },
