@@ -41,7 +41,7 @@ export default defineConfig({
        编辑此页（如果你开启了 editLink）
     ===================== */
     editLink: {
-      pattern: 'https://github.com/你的仓库地址/edit/main/docs/:path',
+      pattern: 'https://github.com/Akttoer/SkiHide-docs/edit/main/docs/:path',
       text: '在 GitHub 上编辑此页',
     },
 
@@ -77,7 +77,7 @@ export default defineConfig({
       ],
     },
 
-    socialLinks: [{ icon: 'github', link: 'https://github.com/<your_repo>' }],
+    socialLinks: [{ icon: 'github', link: 'https://github.com/Akttoer/SkiHide' }],
 
     search: {
       provider: 'local',
@@ -94,9 +94,9 @@ export default defineConfig({
         title: '资源',
         items: [
           { text: '文档', link: '/guide/' },
-          { text: 'GitHub 仓库', link: 'https://github.com/<your_repo>' },
+          { text: 'GitHub 仓库', link: 'https://github.com/Akttoer/SkiHide' },
           { text: '下载', link: '/download' },
-          { text: '问题反馈', link: 'https://github.com/<your_repo>/issues' },
+          { text: '问题反馈', link: 'https://github.com/Akttoer/SkiHide/issues' },
         ],
       },
       {
@@ -105,15 +105,15 @@ export default defineConfig({
           { text: 'Telegram 频道', link: 'https://t.me/your_channel' },
           {
             text: 'GitHub 讨论区',
-            link: 'https://github.com/<your_repo>/discussions',
+            link: 'https://github.com/Akttoer/SkiHide/discussions',
           },
           {
             text: '参与贡献',
-            link: 'https://github.com/<your_repo>/blob/main/CONTRIBUTING.md',
+            link: 'https://github.com/Akttoer/SkiHide/blob/main/CONTRIBUTING.md',
           },
           {
             text: '许可协议',
-            link: 'https://github.com/<your_repo>/blob/main/LICENSE',
+            link: 'https://github.com/Akttoer/SkiHide/blob/main/LICENSE',
           },
         ],
       },
