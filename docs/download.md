@@ -19,10 +19,12 @@ SkiHide 是一款 Windows 工具，通过 **全局快捷键 / 鼠标侧键** 快
 
 ### 下载链接
 
-- [Github](https://github.com/Akttoer/SkiHide/releases)
-- [飞书下载]() 直接关闭登录窗口，无需登录直接下载
-- [雨云 CDN]()
-- [123 网盘]()
+- [Github](https://github.com/Akttoer/SkiHide/releases/latest)
+- [飞书下载](https://ai.feishu.cn/drive/folder/LX6IfTWajlKR2nddMz0cqwFUnCe?from=from_copylink) 直接关闭登录窗口，无需登录直接下载
+- [雨云 CDN](https://flvsrttb.cn-nb1.rainapp.top/v1/download/SkiHide-v1.3.5.exe)
+- [123 网盘](https://www.123865.com/s/1L3SVv-HCrLh)
+- [百度网盘](https://pan.baidu.com/s/1yyCZWPamOM_JPD6YQ4fruw?pwd=jj5t) 提取码: jj5t
+- [夸克网盘](https://pan.quark.cn/s/ad558ca201f3)
 
 ### 下载前请先确保您已阅读并同意 [隐私政策与免责声明](guide/privacy)
 
