@@ -12,7 +12,7 @@ SkiHide 是一款 Windows 工具，通过 **全局快捷键 / 鼠标侧键** 快
 
 > 版本号 : 1.3.5
 
-### SkiHIde for Windows
+### SkiHide for Windows
 
 - 支持 Windows 10 /11
 - 架构 X64
