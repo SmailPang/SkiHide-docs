@@ -10,7 +10,7 @@ SkiHide 是一款 Windows 工具，通过 **全局快捷键 / 鼠标侧键** 快
 
 ## 最新版本
 
-> 版本号 : 1.3.6
+> 版本号 : 1.3.7
 
 ### SkiHide for Windows
 
@@ -21,7 +21,7 @@ SkiHide 是一款 Windows 工具，通过 **全局快捷键 / 鼠标侧键** 快
 
 - [Github](https://github.com/Akttoer/SkiHide/releases/latest)
 - [飞书下载](https://ai.feishu.cn/drive/folder/LX6IfTWajlKR2nddMz0cqwFUnCe?from=from_copylink) 直接关闭登录窗口，无需登录直接下载
-- [雨云 CDN](https://flvsrttb.cn-nb1.rainapp.top/v1/download/SkiHide-v1.3.5.exe)
+- [雨云 CDN](https://flvsrttb.cn-nb1.rainapp.top/v1/download/SkiHide-v1.3.7.exe)
 - [123 网盘](https://www.123865.com/s/1L3SVv-aCrLh)
 - [百度网盘](https://pan.baidu.com/s/12nZqTj6zIQzhyzCDgJCabA?pwd=qkb8) 提取码: qkb8
 - [夸克网盘](https://pan.quark.cn/s/d9a097b01ce0)
@@ -53,7 +53,7 @@ SkiHide 是一款 Windows 工具，通过 **全局快捷键 / 鼠标侧键** 快
 
 ## 校验
 
-- SHA256（EXE）：`b8950e8fd5b7132fbbca33834e5f5161dcda1b06b8698b361c715e79de2ad96d`
+- SHA256（EXE）：`403c8f133ffe820844599e8f955a24f40b921268be007389a4d3200ad1683a2c`
 
 ## 更新日志 / 历史版本
 
