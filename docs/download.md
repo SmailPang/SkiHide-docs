@@ -10,7 +10,7 @@ SkiHide 是一款 Windows 工具，通过 **全局快捷键 / 鼠标侧键** 快
 
 ## 最新版本
 
-> 版本号 : 1.3.5
+> 版本号 : 1.3.6
 
 ### SkiHide for Windows
 
@@ -53,9 +53,7 @@ SkiHide 是一款 Windows 工具，通过 **全局快捷键 / 鼠标侧键** 快
 
 ## 校验
 
-如果你提供校验值，可在这里写：
-
-- SHA256（EXE）：`572c5530e15ca4f95f6eebf05515e52a622b0b4ce91f1db42e38d14bd3d28038`
+- SHA256（EXE）：`b8950e8fd5b7132fbbca33834e5f5161dcda1b06b8698b361c715e79de2ad96d`
 
 ## 更新日志 / 历史版本
 
