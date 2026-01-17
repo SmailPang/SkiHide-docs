@@ -49,7 +49,7 @@ export default defineConfig({
       text: '在 GitHub 上编辑此页',
     },
 
-    logo: 'https://free.picui.cn/free/2026/01/04/6959c7376c000.png',
+    logo: 'http://youke.xn--y7xa690gmna.cn/s1/2026/01/17/696b6cd190174.png',
 
     nav: [
       { text: '首页', link: '/' },
