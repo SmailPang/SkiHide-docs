@@ -14,7 +14,7 @@ hero:
       link: /guide/
     - theme: alt
       text: 访问 GitHub
-      link: https://github.com/Akttoer/SkiHide
+      link: https://github.com/SmailPang/SkiHide
 
 features:
   - icon: ⚡
