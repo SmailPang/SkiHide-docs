@@ -24,7 +24,7 @@
 ## 程序崩溃怎么办？
 
 - 查看目录下的 `log.txt`
-- 将日志提交到 [反馈页面](https://github.com/Akttoer/SkiHide/issues)
+- 将日志提交到 [反馈页面](https://github.com/SmailPang/SkiHide/issues)
 
 ### 注意：提交反馈前请确保你知道应该怎么正确跟开发者反馈问题
 
