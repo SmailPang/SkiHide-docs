@@ -163,6 +163,6 @@ description: SkiHide 更新日志与版本记录
 
 如果你在新版本中遇到问题，欢迎通过以下方式反馈：
 
-- [GitHub Issues](https://github.com/Akttoer/SkiHide/issues)
+- [GitHub Issues](https://github.com/SmailPang/SkiHide/issues)
 
 我们会在后续版本中持续改进。
