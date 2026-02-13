@@ -45,7 +45,7 @@ export default defineConfig({
        编辑此页（如果你开启了 editLink）
     ===================== */
     editLink: {
-      pattern: 'https://github.com/Akttoer/SkiHide-docs/edit/main/docs/:path',
+      pattern: 'https://github.com/SmailPang/SkiHide-docs/edit/main/docs/:path',
       text: '在 GitHub 上编辑此页',
     },
 
@@ -81,7 +81,7 @@ export default defineConfig({
       ],
     },
 
-    socialLinks: [{ icon: 'github', link: 'https://github.com/Akttoer/SkiHide' }],
+    socialLinks: [{ icon: 'github', link: 'https://github.com/SmailPang/SkiHide' }],
 
     search: {
       provider: 'local',
@@ -97,9 +97,9 @@ export default defineConfig({
         title: '资源',
         items: [
           { text: '文档', link: '/guide/' },
-          { text: 'GitHub 仓库', link: 'https://github.com/Akttoer/SkiHide' },
+          { text: 'GitHub 仓库', link: 'https://github.com/SmailPang/SkiHide' },
           { text: '下载', link: '/download' },
-          { text: '问题反馈', link: 'https://github.com/Akttoer/SkiHide/issues' },
+          { text: '问题反馈', link: 'https://github.com/SmailPang/SkiHide/issues' },
         ],
       },
       {
@@ -112,7 +112,7 @@ export default defineConfig({
           },
           {
             text: '许可协议',
-            link: 'https://github.com/Akttoer/SkiHide/blob/main/LICENSE',
+            link: 'https://github.com/SmailPang/SkiHide/blob/main/LICENSE',
           },
         ],
       },
