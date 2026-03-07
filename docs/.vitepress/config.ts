@@ -49,7 +49,7 @@ export default defineConfig({
       text: '在 GitHub 上编辑此页',
     },
 
-    logo: 'http://youke.xn--y7xa690gmna.cn/s1/2026/01/17/696b6cd190174.png',
+    logo: 'https://picui.ogmua.cn/s1/2026/01/17/696b6cd190174.png',
 
     nav: [
       { text: '首页', link: '/' },
@@ -106,6 +106,7 @@ export default defineConfig({
         title: '社区及友链',
         items: [
           { text: '雨云', link: 'https://www.rainyun.com/Pang_' },
+          { text: 'Mirror酱', link: 'https://mirrorchyan.com/zh/get-start?source=skihide-docs' },
           {
             text: 'QQ群',
             link: 'https://qm.qq.com/q/FcFOf1bl0k',

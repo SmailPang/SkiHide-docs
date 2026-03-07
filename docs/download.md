@@ -10,7 +10,7 @@ SkiHide 是一款 Windows 工具，通过 **全局快捷键 / 鼠标侧键** 快
 
 ## 最新版本
 
-> 版本号 : 1.5.0
+> 版本号 : 2.0.0
 
 ### SkiHide for Windows
 
@@ -21,10 +21,12 @@ SkiHide 是一款 Windows 工具，通过 **全局快捷键 / 鼠标侧键** 快
 
 - [Github](https://github.com/SmailPang/SkiHide/releases/latest)
 - [飞书下载](https://ai.feishu.cn/drive/folder/LX6IfTWajlKR2nddMz0cqwFUnCe?from=from_copylink) 直接关闭登录窗口，无需登录直接下载
-- [雨云 CDN](https://flvsrttb.cn-nb1.rainapp.top/v1/download/SkiHide-v1.5.0.exe)
+- [小飞机网盘](https://share.feijipan.com/s/yr1b0alF)
+- [雨云 CDN](https://flvsrttb.cn-nb1.rainapp.top/v2/download/SkiHide-2.0.0.exe)
 - [123 网盘](https://www.123865.com/s/1L3SVv-aCrLh)
 - [百度网盘](https://pan.baidu.com/s/12nZqTj6zIQzhyzCDgJCabA?pwd=qkb8) 提取码: qkb8
 - [夸克网盘](https://pan.quark.cn/s/d9a097b01ce0)
+- [已有 Mirror 酱 CDK？前往 Mirror 酱 高速下载](https://mirrorchyan.com/zh/projects?rid=SkiHide&source=skihide-docs)
 
 ### 下载前请先确保您已阅读并同意 [隐私政策与免责声明](guide/privacy)
 
@@ -32,7 +34,6 @@ SkiHide 是一款 Windows 工具，通过 **全局快捷键 / 鼠标侧键** 快
 
 1. 下载后移动到任意目录
 2. 双击运行 `SkiHide.exe`
-3. 启动后程序会在 **系统托盘** 常驻（右下角小图标）
 
 ## 第一次使用建议
 
@@ -53,8 +54,7 @@ SkiHide 是一款 Windows 工具，通过 **全局快捷键 / 鼠标侧键** 快
 
 ## 校验
 
-- SHA256（EXE）：`f0c76e4e0d2ac04476112aa2f0c0b683972e018a9d32ff3741f1bda7858064bd`
-- SHA256（ZIP）：`955734b9589505ecf6552dc9cf1b632d2205a0cbc8c766c9bea98fbe7924d471`
+- SHA256（EXE）：`9f50fae1b10bfebe52bc9abaaea930fe0c5162e7c1f4b06626177a946df48d95`
 
 ## 更新日志 / 历史版本
 
