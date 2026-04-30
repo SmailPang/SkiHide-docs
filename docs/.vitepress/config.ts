@@ -49,7 +49,7 @@ export default defineConfig({
       text: '在 GitHub 上编辑此页',
     },
 
-    logo: 'https://picui.ogmua.cn/s1/2026/01/17/696b6cd190174.png',
+    logo: 'logo.svg',
 
     nav: [
       { text: '首页', link: '/' },
