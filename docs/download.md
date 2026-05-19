@@ -10,7 +10,7 @@ SkiHide 是一款 Windows 工具，通过 **全局快捷键 / 鼠标侧键** 快
 
 ## 最新版本
 
-> 版本号 : 2.0.0
+> 版本号 : 2.0.1
 
 ### SkiHide for Windows
 
@@ -22,7 +22,7 @@ SkiHide 是一款 Windows 工具，通过 **全局快捷键 / 鼠标侧键** 快
 - [Github](https://github.com/SmailPang/SkiHide/releases/latest)
 - [飞书下载](https://ai.feishu.cn/drive/folder/LX6IfTWajlKR2nddMz0cqwFUnCe?from=from_copylink) 直接关闭登录窗口，无需登录直接下载
 - [小飞机网盘](https://share.feijipan.com/s/yr1b0alF)
-- [雨云 CDN](https://flvsrttb.cn-nb1.rainapp.top/v2/download/SkiHide-2.0.0.exe)
+- [雨云 CDN](https://skihide.cn-nb1.rains3.com/SkiHide-2.0.1.exe)
 - [123 网盘](https://www.123865.com/s/1L3SVv-aCrLh)
 - [百度网盘](https://pan.baidu.com/s/12nZqTj6zIQzhyzCDgJCabA?pwd=qkb8) 提取码: qkb8
 - [夸克网盘](https://pan.quark.cn/s/d9a097b01ce0)
@@ -54,7 +54,7 @@ SkiHide 是一款 Windows 工具，通过 **全局快捷键 / 鼠标侧键** 快
 
 ## 校验
 
-- SHA256（EXE）：`9f50fae1b10bfebe52bc9abaaea930fe0c5162e7c1f4b06626177a946df48d95`
+- SHA256（EXE）：`57f35f766b28d300adf9e519779cf93b85e22b8b9bad131bb4da7854dee9eb09`
 
 ## 更新日志 / 历史版本
 
